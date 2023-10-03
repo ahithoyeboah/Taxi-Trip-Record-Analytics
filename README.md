@@ -1,5 +1,5 @@
-# Taxi-Trip-Record-Analytics
-## A Comprehensive Data Engineering Journey
+# Taxi Trip Record Analytics
+## A Comprehensive Data Engineering Journey with GCP
 
 <h1>Introduction</h1>
 The goal of this project is to perform data analytics on Taxi Trip data using various tools and technologies, including Python (Jupyter Notebook), GCP Storage,BigQuery, Looker Studio , Compute Instance and the Mage AI Data Pipeline Tool.
@@ -12,10 +12,10 @@ The goal of this project is to perform data analytics on Taxi Trip data using va
 *Programming Language - Python
 
 ### Google Cloud Platform
-*Google Storage
-*Compute Instance
-*BigQuery
-*Looker Studio
+* Google Storage
+* Compute Instance
+* BigQuery
+* Looker Studio
 
 Data Pipeine Tool - [Mage AI](https://www.mage.ai/)
 
